@@ -1,0 +1,13 @@
+/* Isso muda o fundo do site inteiro */
+body {
+    background-color: #1a1a1a; /* Cinza escuro */
+    color: #ffffff;            /* Texto branco */
+    font-family: Arial, sans-serif; /* Fonte mais moderna */
+    text-align: center;        /* Centraliza tudo */
+    margin-top: 50px;
+}
+
+/* Isso muda só o título H1 */
+h1 {
+    color: #0070f3; /* Azul da Vercel */
+}
