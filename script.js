@@ -1,5 +1,5 @@
 function mostrarMensagem() {
-    alert("Olá! Obrigado por visitar meu portfólio rodando na Vercel! 🚀");
+alert("Uma vez Flamengo, Flamengo até Morrer 🚀");
 }
 
 // O comando abaixo busca o botão e fica "ouvindo" o clique
