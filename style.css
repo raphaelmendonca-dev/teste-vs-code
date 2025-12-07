@@ -11,3 +11,29 @@ body {
 h1 {
     color: #0070f3; /* Azul da Vercel */
 }
+/* Deixar a foto redonda e bonita */
+.minha-foto {
+    width: 150px;
+    border-radius: 50%; /* Isso faz o círculo perfeito */
+    border: 4px solid #0070f3; /* Borda azul */
+    margin-bottom: 20px;
+}
+
+/* Transformar o link simples em um botão chamativo */
+.botao {
+    display: inline-block;
+    background-color: #0070f3;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none; /* Tira o sublinhado feio */
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background 0.3s; /* Animação suave */
+}
+
+/* Efeito quando passa o mouse em cima do botão */
+.botao:hover {
+    background-color: #0051a2; /* Fica mais escuro */
+    cursor: pointer;
+}
